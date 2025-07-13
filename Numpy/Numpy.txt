@@ -1,0 +1,37 @@
+np.array
+np.ones
+np.zeros
+np.full
+np.arange
+np.eye
+
+
+----------------------
+
+ndim
+size
+shape
+
+dtype
+astype
+
+sum
+mean
+min
+max
+std
+var
+
+accessing elements in 1d,2d,3d array through indexing 
+slicing 
+fancy indexing 
+Boolean Masking
+
+Reshaping and Manuplating 
+.ravel and .flatten
+insert/append/concat/delete in 1d ,2d multidimensional array
+Stacking and Spliting (split,hsplit,vsplit)
+
+
+Broadcasting and Vectorization
+Handling Missing Values(isnan,nan_to_num,isInf)
