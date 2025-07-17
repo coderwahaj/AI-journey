@@ -75,7 +75,7 @@ if url:
     if content:
         st.write(content)
         summary = summarize_content(content)
-          # Summarize content
+        # Summarize content
         st.subheader("📋 Summary")  # Display summary header
         st.write(summary)  # Show summary
     else:
